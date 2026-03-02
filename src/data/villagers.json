@@ -1,0 +1,5793 @@
+[
+  {
+    "name": "Admiral",
+    "species": "Bird",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "January 27",
+    "favorite_styles": [
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Agent S",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "July 2",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Black"
+    ]
+  },
+  {
+    "name": "Agnes",
+    "species": "Pig",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "April 21",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "White"
+    ]
+  },
+  {
+    "name": "Al",
+    "species": "Gorilla",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "October 18",
+    "favorite_styles": [
+      "Active"
+    ],
+    "favorite_colors": [
+      "Red",
+      "White"
+    ]
+  },
+  {
+    "name": "Alfonso",
+    "species": "Alligator",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "June 9",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Alice",
+    "species": "Koala",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "August 19",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Alli",
+    "species": "Alligator",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "November 8",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Amelia",
+    "species": "Eagle",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "November 19",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "name": "Anabelle",
+    "species": "Anteater",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "February 16",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Green"
+    ]
+  },
+  {
+    "name": "Anchovy",
+    "species": "Bird",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "March 4",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Angus",
+    "species": "Bull",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "April 30",
+    "favorite_styles": [
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Anicotti",
+    "species": "Mouse",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "February 24",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Ankha",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "September 22",
+    "favorite_styles": [
+      "Gorgeous",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Colorful"
+    ]
+  },
+  {
+    "name": "Annalisa",
+    "species": "Anteater",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "February 6",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Annalise",
+    "species": "Horse",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "December 2",
+    "favorite_styles": [
+      "Active",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Antonio",
+    "species": "Anteater",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "October 20",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Apollo",
+    "species": "Eagle",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "July 4",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "Apple",
+    "species": "Hamster",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "September 24",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Red"
+    ]
+  },
+  {
+    "name": "Astrid",
+    "species": "Kangaroo",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "September 8",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Colorful"
+    ]
+  },
+  {
+    "name": "Audie",
+    "species": "Wolf",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "August 31",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Green",
+      "White"
+    ]
+  },
+  {
+    "name": "Aurora",
+    "species": "Penguin",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "January 27",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Ava",
+    "species": "Chicken",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "April 28",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Red"
+    ]
+  },
+  {
+    "name": "Avery",
+    "species": "Eagle",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "February 22",
+    "favorite_styles": [
+      "Gorgeous",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Axel",
+    "species": "Elephant",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "March 23",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "White"
+    ]
+  },
+  {
+    "name": "Baabara",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "March 28",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Bam",
+    "species": "Deer",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "November 7",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Green"
+    ]
+  },
+  {
+    "name": "Bangle",
+    "species": "Tiger",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "August 27",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Barold",
+    "species": "Cub",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "March 2",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Bea",
+    "species": "Dog",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "October 15",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Green"
+    ]
+  },
+  {
+    "name": "Beardo",
+    "species": "Bear",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "September 27",
+    "favorite_styles": [
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Beau",
+    "species": "Deer",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "April 5",
+    "favorite_styles": [
+      "Cute",
+      "SImple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Becky",
+    "species": "Chicken",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "December 9",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Bella",
+    "species": "Mouse",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "December 28",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Benedict",
+    "species": "Chicken",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "October 10",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Benjamin",
+    "species": "Dog",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "August 3",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Red",
+      "White"
+    ]
+  },
+  {
+    "name": "Bertha",
+    "species": "Hippo",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "April 25",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "White"
+    ]
+  },
+  {
+    "name": "Bettina",
+    "species": "Mouse",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "June 12",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Red",
+      "White"
+    ]
+  },
+  {
+    "name": "Bianca",
+    "species": "Tiger",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "December 13",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Biff",
+    "species": "Hippo",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "March 29",
+    "favorite_styles": [
+      "Active",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Big Top",
+    "species": "Elephant",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "October 3",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "Bill",
+    "species": "Duck",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "February 1",
+    "favorite_styles": [
+      "Active"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Billy",
+    "species": "Goat",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "March 25",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Biskit",
+    "species": "Dog",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "May 13",
+    "favorite_styles": [
+      "Gorgeous",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Bitty",
+    "species": "Hippo",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "October 6",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Blaire",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "July 3",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Blanche",
+    "species": "Ostrich",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "December 21",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Bluebear",
+    "species": "Cub",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "June 24",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Bob",
+    "species": "Cat",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "January 1",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Red"
+    ]
+  },
+  {
+    "name": "Bonbon",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "March 3",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Bones",
+    "species": "Dog",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "August 4",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Boomer",
+    "species": "Penguin",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "February 7",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Boone",
+    "species": "Gorilla",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "September 12",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Red"
+    ]
+  },
+  {
+    "name": "Boots",
+    "species": "Alligator",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "August 7",
+    "favorite_styles": [
+      "Active",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Boris",
+    "species": "Pig",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "November 6",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Boyd",
+    "species": "Gorilla",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "October 1",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Bree",
+    "species": "Mouse",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "July 7",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Broccolo",
+    "species": "Mouse",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "June 30",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Broffina",
+    "species": "Chicken",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "October 24",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Bruce",
+    "species": "Deer",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "May 26",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Bubbles",
+    "species": "Hippo",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "September 18",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Buck",
+    "species": "Horse",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "April 4",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Bud",
+    "species": "Lion",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "August 8",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Bunnie",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "May 9",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Butch",
+    "species": "Dog",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "November 1",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Buzz",
+    "species": "Eagle",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "December 7",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Cally",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "September 4",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Red"
+    ]
+  },
+  {
+    "name": "Camofrog",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "June 5",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Canberra",
+    "species": "Koala",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "May 14",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Candi",
+    "species": "Mouse",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "April 13",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Carmen",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "January 6",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Green"
+    ]
+  },
+  {
+    "name": "Caroline",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "July 15",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "White"
+    ]
+  },
+  {
+    "name": "Carrie",
+    "species": "Kangaroo",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "December 5",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Red"
+    ]
+  },
+  {
+    "name": "Cashmere",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "April 2",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Celia",
+    "species": "Eagle",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 25",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Cesar",
+    "species": "Gorilla",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "September 6",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Chadder",
+    "species": "Mouse",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "December 15",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Charlise",
+    "species": "Bear",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "April 17",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Red"
+    ]
+  },
+  {
+    "name": "Cheri",
+    "species": "Cub",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "March 17",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Cherry",
+    "species": "Dog",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "May 11",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Chester",
+    "species": "Cub",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "August 6",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Chevre",
+    "species": "Goat",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 6",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Chief",
+    "species": "Wolf",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "December 19",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "White"
+    ]
+  },
+  {
+    "name": "Chops",
+    "species": "Pig",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "October 13",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Red"
+    ]
+  },
+  {
+    "name": "Chow",
+    "species": "Bear",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "July 22",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "name": "Chrissy",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "August 28",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "White"
+    ]
+  },
+  {
+    "name": "Claude",
+    "species": "Rabbit",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "December 3",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Colorful"
+    ]
+  },
+  {
+    "name": "Claudia",
+    "species": "Tiger",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "November 22",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Purple",
+      "White"
+    ]
+  },
+  {
+    "name": "Clay",
+    "species": "Hamster",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "October 19",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Cleo",
+    "species": "Horse",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "February 9",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Clyde",
+    "species": "Horse",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "May 1",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "White"
+    ]
+  },
+  {
+    "name": "Coach",
+    "species": "Bull",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "April 29",
+    "favorite_styles": [
+      "Active"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Cobb",
+    "species": "Pig",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "October 7",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Coco",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 1",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Green"
+    ]
+  },
+  {
+    "name": "Cole",
+    "species": "Rabbit",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "August 10",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Simple"
+    ]
+  },
+  {
+    "name": "Colton",
+    "species": "Horse",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "May 22",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Cookie",
+    "species": "Dog",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "June 18",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Cousteau",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "December 17",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Red"
+    ]
+  },
+  {
+    "name": "Cranston",
+    "species": "Ostrich",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "September 23",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Croque",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "July 18",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Red"
+    ]
+  },
+  {
+    "name": "Cube",
+    "species": "Penguin",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "January 29",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Curlos",
+    "species": "Sheep",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "May 8",
+    "favorite_styles": [
+      "Active",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Red"
+    ]
+  },
+  {
+    "name": "Curly",
+    "species": "Pig",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "July 26",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Curt",
+    "species": "Bear",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "July 1",
+    "favorite_styles": [
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Cyd",
+    "species": "Elephant",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "June 9",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Cyrano",
+    "species": "Anteater",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "March 9",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Daisy",
+    "species": "Dog",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "November 16",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Colorful"
+    ]
+  },
+  {
+    "name": "Deena",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "June 27",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Colorful"
+    ]
+  },
+  {
+    "name": "Deirdre",
+    "species": "Deer",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "May 4",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange"
+    ]
+  },
+  {
+    "name": "Del",
+    "species": "Alligator",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "May 27",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Deli",
+    "species": "Monkey",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "May 24",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Derwin",
+    "species": "Duck",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "May 25",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Diana",
+    "species": "Deer",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "January 4",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Diva",
+    "species": "Frog",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "October 2",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Dizzy",
+    "species": "Elephant",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "January 14",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Dobie",
+    "species": "Wolf",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "February 17",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Doc",
+    "species": "Rabbit",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "March 16",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Dom",
+    "species": "Sheep",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "March 18",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Red"
+    ]
+  },
+  {
+    "name": "Dora",
+    "species": "Mouse",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "February 18",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Dotty",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "March 14",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Drago",
+    "species": "Alligator",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "February 12",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Red"
+    ]
+  },
+  {
+    "name": "Drake",
+    "species": "Duck",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "June 25",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Red"
+    ]
+  },
+  {
+    "name": "Drift",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "October 9",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Red"
+    ]
+  },
+  {
+    "name": "Ed",
+    "species": "Horse",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "September 16",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Egbert",
+    "species": "Chicken",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "October 14",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Elise",
+    "species": "Monkey",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "March 21",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Purple",
+      "Red"
+    ]
+  },
+  {
+    "name": "Ellie",
+    "species": "Elephant",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "May 12",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Elmer",
+    "species": "Horse",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "October 5",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Eloise",
+    "species": "Elephant",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "December 8",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Elvis",
+    "species": "Lion",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "July 23",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Erik",
+    "species": "Deer",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "July 27",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Red"
+    ]
+  },
+  {
+    "name": "Eugene",
+    "species": "Koala",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "October 26",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Eunice",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "April 3",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Fang",
+    "species": "Wolf",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "December 18",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Fauna",
+    "species": "Deer",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 26",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "White"
+    ]
+  },
+  {
+    "name": "Felicity",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "March 30",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Filbert",
+    "species": "Squirrel",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "June 3",
+    "favorite_styles": [
+      "Simple",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Flip",
+    "species": "Monkey",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "November 21",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Flo",
+    "species": "Penguin",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "September 2",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Purple",
+      "Red"
+    ]
+  },
+  {
+    "name": "Flora",
+    "species": "Ostrich",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "February 9",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Flurry",
+    "species": "Hamster",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "January 30",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Francine",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "January 22",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Frank",
+    "species": "Eagle",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "July 30",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Freckles",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "February 19",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Green"
+    ]
+  },
+  {
+    "name": "Freya",
+    "species": "Wolf",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "December 14",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Green"
+    ]
+  },
+  {
+    "name": "Friga",
+    "species": "Penguin",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "October 16",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Frita",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "July 16",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Frobert",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "February 8",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Colorful"
+    ]
+  },
+  {
+    "name": "Fuchsia",
+    "species": "Deer",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "September 19",
+    "favorite_styles": [
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Pink"
+    ]
+  },
+  {
+    "name": "Gabi",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "December 16",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Red"
+    ]
+  },
+  {
+    "name": "Gala",
+    "species": "Pig",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 5",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "White"
+    ]
+  },
+  {
+    "name": "Gaston",
+    "species": "Rabbit",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "October 28",
+    "favorite_styles": [
+      "Gorgeous",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Gayle",
+    "species": "Alligator",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "May 17",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "White"
+    ]
+  },
+  {
+    "name": "Genji",
+    "species": "Rabbit",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "January 21",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Gigi",
+    "species": "Frog",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "August 11",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "name": "Gladys",
+    "species": "Ostrich",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "January 15",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Gloria",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "August 12",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Goldie",
+    "species": "Dog",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "December 27",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Gonzo",
+    "species": "Koala",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "October 13",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Green"
+    ]
+  },
+  {
+    "name": "Goose",
+    "species": "Chicken",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "October 4",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Graham",
+    "species": "Hamster",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "June 20",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Greta",
+    "species": "Mouse",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "September 5",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Grizzly",
+    "species": "Bear",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "July 31",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Groucho",
+    "species": "Bear",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "October 23",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Gruff",
+    "species": "Goat",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "August 29",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Gwen",
+    "species": "Penguin",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "January 23",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Green",
+      "White"
+    ]
+  },
+  {
+    "name": "Hamlet",
+    "species": "Hamster",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "May 30",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Hamphrey",
+    "species": "Hamster",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "February 25",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Hans",
+    "species": "Gorilla",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "December 5",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Harry",
+    "species": "Hippo",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "January 7",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Hazel",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "August 30",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Henry",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "September 21",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Hippeux",
+    "species": "Hippo",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "October 15",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Green"
+    ]
+  },
+  {
+    "name": "Hopkins",
+    "species": "Rabbit",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "March 11",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Hopper",
+    "species": "Penguin",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "April 6",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Hornsby",
+    "species": "Rhino",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "March 20",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Green"
+    ]
+  },
+  {
+    "name": "Huck",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "July 9",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Hugh",
+    "species": "Pig",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "December 30",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Iggly",
+    "species": "Penguin",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "November 2",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Ike",
+    "species": "Bear",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "May 16",
+    "favorite_styles": [
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Green"
+    ]
+  },
+  {
+    "name": "Jacob",
+    "species": "Bird",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "August 24",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Red"
+    ]
+  },
+  {
+    "name": "Jacques",
+    "species": "Bird",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "June 22",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Black"
+    ]
+  },
+  {
+    "name": "Jambette",
+    "species": "Frog",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "October 27",
+    "favorite_styles": [
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "Jay",
+    "species": "Bird",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "July 17",
+    "favorite_styles": [
+      "Active"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Jeremiah",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "July 8",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Jitters",
+    "species": "Bird",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "February 2",
+    "favorite_styles": [
+      "Active"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Joey",
+    "species": "Duck",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "January 3",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Green"
+    ]
+  },
+  {
+    "name": "Judy",
+    "species": "Cub",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "March 10",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "White"
+    ]
+  },
+  {
+    "name": "Julia",
+    "species": "Ostrich",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "July 31",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Purple",
+      "Red"
+    ]
+  },
+  {
+    "name": "Julian",
+    "species": "Horse",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "March 15",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "June",
+    "species": "Cub",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "May 21",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Red",
+      "White"
+    ]
+  },
+  {
+    "name": "Kabuki",
+    "species": "Cat",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "November 29",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Purple",
+      "Red"
+    ]
+  },
+  {
+    "name": "Katt",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "April 27",
+    "favorite_styles": [
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Keaton",
+    "species": "Eagle",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "June 1",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Ken",
+    "species": "Chicken",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "December 23",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Ketchup",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "July 27",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Kevin",
+    "species": "Pig",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "April 26",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Kid Cat",
+    "species": "Cat",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "August 1",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Red"
+    ]
+  },
+  {
+    "name": "Kidd",
+    "species": "Goat",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "June 28",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "White"
+    ]
+  },
+  {
+    "name": "Kiki",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "October 8",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Kitt",
+    "species": "Kangaroo",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "October 11",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Purple",
+      "Red"
+    ]
+  },
+  {
+    "name": "Kitty",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "February 15",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Green"
+    ]
+  },
+  {
+    "name": "Klaus",
+    "species": "Bear",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "March 31",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "White"
+    ]
+  },
+  {
+    "name": "Knox",
+    "species": "Chicken",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "November 23",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Red"
+    ]
+  },
+  {
+    "name": "Kody",
+    "species": "Cub",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "September 28",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "White"
+    ]
+  },
+  {
+    "name": "Kyle",
+    "species": "Wolf",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "December 6",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "name": "Leonardo",
+    "species": "Tiger",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "May 15",
+    "favorite_styles": [
+      "Active",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Leopold",
+    "species": "Lion",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "August 14",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Lily",
+    "species": "Frog",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "February 4",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Yellow",
+      "White"
+    ]
+  },
+  {
+    "name": "Limberg",
+    "species": "Mouse",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "October 17",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Green"
+    ]
+  },
+  {
+    "name": "Lionel",
+    "species": "Lion",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "July 29",
+    "favorite_styles": [
+      "Active",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Green"
+    ]
+  },
+  {
+    "name": "Lobo",
+    "species": "Wolf",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "November 5",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Black"
+    ]
+  },
+  {
+    "name": "Lolly",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 27",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Lopez",
+    "species": "Deer",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "August 20",
+    "favorite_styles": [
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Gray"
+    ]
+  },
+  {
+    "name": "Louie",
+    "species": "Gorilla",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "March 26",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Red"
+    ]
+  },
+  {
+    "name": "Lucha",
+    "species": "Bird",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "December 12",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Lucky",
+    "species": "Dog",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "November 4",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "White"
+    ]
+  },
+  {
+    "name": "Lucy",
+    "species": "Pig",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "June 2",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Lyman",
+    "species": "Koala",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "October 12",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Mac",
+    "species": "Dog",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "November 11",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Maddie",
+    "species": "Dog",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "January 11",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Maelle",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "April 8",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "White"
+    ]
+  },
+  {
+    "name": "Maggie",
+    "species": "Pig",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "September 3",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Mallary",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "November 17",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Maple",
+    "species": "Cub",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "June 15",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Green"
+    ]
+  },
+  {
+    "name": "Marcel",
+    "species": "Dog",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "December 31",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Green"
+    ]
+  },
+  {
+    "name": "Marcie",
+    "species": "Kangaroo",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "May 31",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Margie",
+    "species": "Elephant",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "January 28",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Marina",
+    "species": "Octopus",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "June 26",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Marshal",
+    "species": "Squirrel",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "September 29",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Mathilda",
+    "species": "Kangaroo",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "November 12",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Red",
+      "White"
+    ]
+  },
+  {
+    "name": "Megan",
+    "species": "Bear",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 13",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Melba",
+    "species": "Koala",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "April 12",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Green",
+      "White"
+    ]
+  },
+  {
+    "name": "Merengue",
+    "species": "Rhino",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 19",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Red",
+      "White"
+    ]
+  },
+  {
+    "name": "Merry",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "June 29",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Midge",
+    "species": "Bird",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 12",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Pink"
+    ]
+  },
+  {
+    "name": "Mint",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "May 2",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Mira",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "July 6",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Miranda",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "April 23",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Mitzi",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "September 25",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Moe",
+    "species": "Cat",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "January 12",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Molly",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 7",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Monique",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "September 30",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Monty",
+    "species": "Monkey",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "December 7",
+    "favorite_styles": [
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Moose",
+    "species": "Mouse",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "September 13",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Purple",
+      "Red"
+    ]
+  },
+  {
+    "name": "Mott",
+    "species": "Lion",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "July 10",
+    "favorite_styles": [
+      "Active",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Green"
+    ]
+  },
+  {
+    "name": "Muffy",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "February 14",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Murphy",
+    "species": "Cub",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "December 29",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Nan",
+    "species": "Goat",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "August 24",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Nana",
+    "species": "Monkey",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "August 23",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "White"
+    ]
+  },
+  {
+    "name": "Naomi",
+    "species": "Cow",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "February 28",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Nate",
+    "species": "Bear",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "August 16",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "White"
+    ]
+  },
+  {
+    "name": "Nibbles",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "July 19",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Norma",
+    "species": "Cow",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "September 20",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "O'Hare",
+    "species": "Rabbit",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "July 24",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Octavian",
+    "species": "Octopus",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "September 20",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "name": "Olaf",
+    "species": "Anteater",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "May 19",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Olive",
+    "species": "Cub",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "July 12",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Olivia",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "February 3",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "name": "Opal",
+    "species": "Elephant",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "January 20",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Ozzie",
+    "species": "Koala",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "May 7",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Pancetti",
+    "species": "Pig",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "November 14",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Pango",
+    "species": "Anteater",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "November 9",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Paolo",
+    "species": "Elephant",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "May 5",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Papi",
+    "species": "Horse",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "January 10",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Pashmina",
+    "species": "Goat",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "December 26",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Red"
+    ]
+  },
+  {
+    "name": "Pate",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "February 23",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Yellow",
+      "White"
+    ]
+  },
+  {
+    "name": "Patty",
+    "species": "Cow",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "May 10",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Red"
+    ]
+  },
+  {
+    "name": "Paula",
+    "species": "Bear",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "March 22",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Peaches",
+    "species": "Horse",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "November 28",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Peanut",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "June 8",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Red"
+    ]
+  },
+  {
+    "name": "Pecan",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "September 10",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Peck",
+    "species": "Bird",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "July 25",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Red"
+    ]
+  },
+  {
+    "name": "Peewee",
+    "species": "Gorilla",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "September 11",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Peggy",
+    "species": "Pig",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "May 23",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Pekoe",
+    "species": "Cub",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "May 18",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Red"
+    ]
+  },
+  {
+    "name": "Penelope",
+    "species": "Mouse",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "February 5",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Phil",
+    "species": "Ostrich",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "November 27",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Red"
+    ]
+  },
+  {
+    "name": "Phoebe",
+    "species": "Ostrich",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "April 22",
+    "favorite_styles": [
+      "Gorgeous",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Pierce",
+    "species": "Eagle",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "January 8",
+    "favorite_styles": [
+      "Active",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Pietro",
+    "species": "Sheep",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "April 19",
+    "favorite_styles": [
+      "Gorgeous",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Red"
+    ]
+  },
+  {
+    "name": "Pinky",
+    "species": "Bear",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "September 9",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Piper",
+    "species": "Bird",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "April 18",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "name": "Pippy",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "June 14",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Green"
+    ]
+  },
+  {
+    "name": "Plucky",
+    "species": "Chicken",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "October 12",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Pompom",
+    "species": "Duck",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "February 11",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Poncho",
+    "species": "Cub",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "January 2",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "August 5",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Portia",
+    "species": "Dog",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "October 25",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Prince",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "July 21",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Yellow",
+      "White"
+    ]
+  },
+  {
+    "name": "Puck",
+    "species": "Penguin",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "February 21",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Puddles",
+    "species": "Frog",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "January 13",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Pudge",
+    "species": "Cub",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "June 11",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Green"
+    ]
+  },
+  {
+    "name": "Punchy",
+    "species": "Cat",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "April 11",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Purrl",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "May 29",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Queenie",
+    "species": "Ostrich",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "November 13",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Quillson",
+    "species": "Duck",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "December 22",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Raddle",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "June 6",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "White"
+    ]
+  },
+  {
+    "name": "Rasher",
+    "species": "Pig",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "April 7",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Raymond",
+    "species": "Cat",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "October 1",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Renée",
+    "species": "Rhino",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "May 28",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Purple",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Reneigh",
+    "species": "Horse",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "June 4",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Rex",
+    "species": "Lion",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "July 24",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Rhonda",
+    "species": "Rhino",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "January 24",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Ribbot",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "February 13",
+    "favorite_styles": [
+      "Simple",
+      "Active"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Ricky",
+    "species": "Squirrel",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "September 14",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Rizzo",
+    "species": "Mouse",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "January 17",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Roald",
+    "species": "Penguin",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "January 5",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Robin",
+    "species": "Bird",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "December 4",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Rocco",
+    "species": "Hippo",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "August 18",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Rocket",
+    "species": "Gorilla",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "April 14",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Rod",
+    "species": "Mouse",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "August 14",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Rodeo",
+    "species": "Bull",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "October 29",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Rodney",
+    "species": "Hamster",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "November 10",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Rolf",
+    "species": "Tiger",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "August 22",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Black"
+    ]
+  },
+  {
+    "name": "Rooney",
+    "species": "Kangaroo",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "December 1",
+    "favorite_styles": [
+      "Active"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Rory",
+    "species": "Lion",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "August 7",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Roscoe",
+    "species": "Horse",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "June 16",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Rosie",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "February 27",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Rowan",
+    "species": "Tiger",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "August 26",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "December 25",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Rudy",
+    "species": "Cat",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "December 20",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Sally",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "June 19",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "White"
+    ]
+  },
+  {
+    "name": "Samson",
+    "species": "Mouse",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "July 5",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Sandy",
+    "species": "Ostrich",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "October 21",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Savannah",
+    "species": "Horse",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "January 25",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Scoot",
+    "species": "Duck",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "June 13",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Shari",
+    "species": "Monkey",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "April 10",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Sheldon",
+    "species": "Squirrel",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "February 26",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Shep",
+    "species": "Dog",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "November 24",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Sherb",
+    "species": "Goat",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "January 18",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Simon",
+    "species": "Monkey",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "January 19",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Red"
+    ]
+  },
+  {
+    "name": "Skye",
+    "species": "Wolf",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "March 24",
+    "favorite_styles": [
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Sly",
+    "species": "Alligator",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "November 15",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Green"
+    ]
+  },
+  {
+    "name": "Snake",
+    "species": "Rabbit",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "November 3",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Snooty",
+    "species": "Anteater",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "August 24",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Soleil",
+    "species": "Hamster",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "August 9",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Sparro",
+    "species": "Bird",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "November 20",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Green"
+    ]
+  },
+  {
+    "name": "Spike",
+    "species": "Rhino",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "June 17",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Spork",
+    "species": "Pig",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "September 3",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Green"
+    ]
+  },
+  {
+    "name": "Sprinkle",
+    "species": "Penguin",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "February 20",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "White"
+    ]
+  },
+  {
+    "name": "Sprocket",
+    "species": "Ostrich",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "December 1",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Orange"
+    ]
+  },
+  {
+    "name": "Static",
+    "species": "Squirrel",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "July 9",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Stella",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "April 9",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Sterling",
+    "species": "Eagle",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "December 11",
+    "favorite_styles": [
+      "Elegant",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Stinky",
+    "species": "Cat",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "August 17",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "name": "Stitches",
+    "species": "Cub",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "February 10",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "White"
+    ]
+  },
+  {
+    "name": "Stu",
+    "species": "Bull",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "April 20",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "Sydney",
+    "species": "Koala",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "June 21",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Sylvana",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "October 22",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Sylvia",
+    "species": "Kangaroo",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "May 3",
+    "favorite_styles": [
+      "Gorgeous",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "T-Bone",
+    "species": "Bull",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "May 20",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Tabby",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "August 13",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Tad",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "August 3",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Tammi",
+    "species": "Monkey",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "April 2",
+    "favorite_styles": [
+      "Active",
+      "Cute"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Tammy",
+    "species": "Cub",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "June 23",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Purple",
+      "Red"
+    ]
+  },
+  {
+    "name": "Tangy",
+    "species": "Cat",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "June 17",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Tank",
+    "species": "Rhino",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "May 6",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Red"
+    ]
+  },
+  {
+    "name": "Tasha",
+    "species": "Squirrel",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "November 30",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Beige",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Teddy",
+    "species": "Bear",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "September 26",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Tex",
+    "species": "Penguin",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "October 6",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Tia",
+    "species": "Elephant",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "November 18",
+    "favorite_styles": [
+      "Cute",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "name": "Tiffany",
+    "species": "Rabbit",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "January 9",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Red"
+    ]
+  },
+  {
+    "name": "Timbra",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "October 21",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Brown",
+      "Green"
+    ]
+  },
+  {
+    "name": "Tipper",
+    "species": "Cow",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "August 25",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Tom",
+    "species": "Cat",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "December 10",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Truffles",
+    "species": "Pig",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "July 28",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Red"
+    ]
+  },
+  {
+    "name": "Tucker",
+    "species": "Elephant",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "September 7",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Tutu",
+    "species": "Bear",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "November 15",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Red"
+    ]
+  },
+  {
+    "name": "Twiggy",
+    "species": "Bird",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "July 13",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Pink"
+    ]
+  },
+  {
+    "name": "Tybalt",
+    "species": "Tiger",
+    "gender": "Male",
+    "personality": "Jock",
+    "birthday": "August 19",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Ursala",
+    "species": "Bear",
+    "gender": "Female",
+    "personality": "Sisterly",
+    "birthday": "January 16",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Red"
+    ]
+  },
+  {
+    "name": "Velma",
+    "species": "Goat",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "January 14",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Light Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Vesta",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Normal",
+    "birthday": "April 16",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Red"
+    ]
+  },
+  {
+    "name": "Vic",
+    "species": "Bull",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "December 29",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Victoria",
+    "species": "Horse",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "July 11",
+    "favorite_styles": [
+      "Active",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Violet",
+    "species": "Gorilla",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "September 1",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Vivian",
+    "species": "Wolf",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "January 26",
+    "favorite_styles": [
+      "Elegant",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Vladimir",
+    "species": "Cub",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "August 2",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Colorful",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Wade",
+    "species": "Penguin",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "October 30",
+    "favorite_styles": [
+      "Gorgeous",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Walker",
+    "species": "Dog",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "June 10",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Red"
+    ]
+  },
+  {
+    "name": "Walt",
+    "species": "Kangaroo",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "April 24",
+    "favorite_styles": [
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Gray"
+    ]
+  },
+  {
+    "name": "Wart Jr.",
+    "species": "Frog",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "August 21",
+    "favorite_styles": [
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Weber",
+    "species": "Duck",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "June 30",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Blue"
+    ]
+  },
+  {
+    "name": "Wendy",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "August 15",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Green",
+      "Red"
+    ]
+  },
+  {
+    "name": "Whitney",
+    "species": "Wolf",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "September 17",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Light Blue"
+    ]
+  },
+  {
+    "name": "Willow",
+    "species": "Sheep",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "November 26",
+    "favorite_styles": [
+      "Cute",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Pink",
+      "White"
+    ]
+  },
+  {
+    "name": "Winnie",
+    "species": "Horse",
+    "gender": "Female",
+    "personality": "Peppy",
+    "birthday": "January 31",
+    "favorite_styles": [
+      "Cool",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "White"
+    ]
+  },
+  {
+    "name": "Wolfgang",
+    "species": "Wolf",
+    "gender": "Male",
+    "personality": "Cranky",
+    "birthday": "November 25",
+    "favorite_styles": [
+      "Active",
+      "Cool"
+    ],
+    "favorite_colors": [
+      "Black",
+      "Green"
+    ]
+  },
+  {
+    "name": "Yuka",
+    "species": "Koala",
+    "gender": "Female",
+    "personality": "Snooty",
+    "birthday": "July 20",
+    "favorite_styles": [
+      "Cool",
+      "Elegant"
+    ],
+    "favorite_colors": [
+      "Orange",
+      "Yellow"
+    ]
+  },
+  {
+    "name": "Zell",
+    "species": "Deer",
+    "gender": "Male",
+    "personality": "Smug",
+    "birthday": "June 7",
+    "favorite_styles": [
+      "Cool",
+      "Gorgeous"
+    ],
+    "favorite_colors": [
+      "Gray",
+      "Purple"
+    ]
+  },
+  {
+    "name": "Zucker",
+    "species": "Octopus",
+    "gender": "Male",
+    "personality": "Lazy",
+    "birthday": "March 8",
+    "favorite_styles": [
+      "Cute",
+      "Simple"
+    ],
+    "favorite_colors": [
+      "Blue",
+      "Yellow"
+    ]
+  }
+]
