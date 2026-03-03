@@ -4,7 +4,6 @@ import clothing from './data/clothing.json'
 import { useLocalStorage } from './hooks/useLocalStorage'
 import VillagerPicker from './components/VillagerPicker'
 import Inventory from './components/Inventory'
-import GiftMatching from './components/GiftMatching'
 import './App.css'
 
 function App() {
@@ -30,28 +29,16 @@ function App() {
     setInventory(inventory.filter(n => n !== name))
   }
 
-  const pinnedVillagers = useMemo(
-    () => pinnedNames.map(n => villagers.find(v => v.name === n)).filter(Boolean),
-    [pinnedNames]
-  )
-
   const inventoryItems = useMemo(
     () => inventory.map(n => clothing.find(c => c.name === n)).filter(Boolean),
     [inventory]
   )
 
-  const matchesByVillager = useMemo(
-    () => pinnedVillagers.map(villager => ({
-      villager,
-      matchedItems: inventoryItems.filter(item =>
-        villager.favorite_styles.includes(item.style)
-      )
-    })),
-    [pinnedVillagers, inventoryItems]
-  )
-
   return (
     <div className="app">
+      <header className="page-header">
+        <h1 className="page-title">ACNH Gift Guide</h1>
+      </header>
       <nav className="tab-bar">
         <button
           className={activeTab === 'villagers' ? 'active' : ''}
@@ -65,12 +52,6 @@ function App() {
         >
           Inventory
         </button>
-        <button
-          className={activeTab === 'matching' ? 'active' : ''}
-          onClick={() => setActiveTab('matching')}
-        >
-          Gift Matching
-        </button>
       </nav>
 
       <div className="tab-content">
@@ -79,6 +60,7 @@ function App() {
             villagers={villagers}
             pinnedNames={pinnedNames}
             onTogglePin={handleTogglePin}
+            inventoryItems={inventoryItems}
           />
         )}
         {activeTab === 'inventory' && (
@@ -88,9 +70,6 @@ function App() {
             onAddItem={handleAddItem}
             onRemoveItem={handleRemoveItem}
           />
-        )}
-        {activeTab === 'matching' && (
-          <GiftMatching matchesByVillager={matchesByVillager} />
         )}
       </div>
 
