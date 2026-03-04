@@ -40,7 +40,7 @@ function VillagerPicker({ villagers, pinnedNames, onTogglePin, inventoryItems })
   }
 
   return (
-    <div>
+    <div className="villager-tab">
       <p className="pin-count">{pinnedNames.length} / 10 villagers pinned</p>
       <input
         className="search-input"
